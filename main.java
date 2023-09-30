@@ -1,2 +1,3 @@
-float b=2;
+float b=5;
+int a=1;
 
